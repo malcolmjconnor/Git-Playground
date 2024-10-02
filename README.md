@@ -7,21 +7,19 @@ Welcome to the IT Club's GitHub learning repository! This repository is designed
 Follow these steps to get started:
 
 1. **Create a GitHub Account**: 
-   - If you don’t have one, sign up at [GitHub](https://github.com/).
+   - If you don’t have one, sign up at [GitHub](https://github.com/).   
 
-2. **Install Git**:
-   - You’ll need Git installed on your computer. [Here’s how to install Git.](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-
-3. **Fork this repository**:
+2. **Fork this repository**:
    - Fork this repository to create your own copy by clicking the “Fork” button in the top-right corner.
 
-4. **Clone the repository**:
+3. **Clone the repository**:
    - Copy the link to your forked repository and run the following command in your terminal:
      ```bash
      git clone https://github.com/your-username/Git-Playground.git
      ```
+     Note: You’ll need Git installed on your computer. [Here’s how to install Git.](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-5. **Start Working**:
+4. **Start Working**:
    - Edit the code, add files, and make changes. Once you're done, commit and push them to your forked repository.
      ```bash
      git add .
@@ -29,7 +27,7 @@ Follow these steps to get started:
      git push origin main
      ```
 
-6. **Submit a Pull Request**:
+5. **Submit a Pull Request**:
    - Once you're happy with your changes, submit a pull request to the original repository to share your work with the IT Club!
 
 ## Tasks
@@ -37,10 +35,10 @@ Follow these steps to get started:
 Here are some tasks to help you get started with GitHub:
 
 1. **Create a new file**: 
-   - Add a `.txt` file with your name in it.
+   - In the `students` folder, add a file called `yourname.txt`, and add some text in the file.
    
 2. **Make a branch**:
-   - Create a new branch named after your GitHub username and make a change there.
+   - Create a new branch called `yourname` and make a change to the `yourname.txt` file.
    
 3. **Submit your branch as a Pull Request**:
    - Submit a PR to merge your changes back into the main branch.
