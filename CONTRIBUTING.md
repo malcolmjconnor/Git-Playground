@@ -1,5 +1,4 @@
 # Contributing to Git-Playground
-
 ## Submitting Code
 
 1. Fork the repository to your own GitHub account.
